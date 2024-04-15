@@ -1,0 +1,11 @@
+{
+ "db_host": "127.0.0.1",
+ "db_name": "bitnami_erpnext",
+ "db_password": "e1XfvQznHvWS3kE6",
+ "db_port": 3306,
+ "db_type": "mariadb",
+ "host_name": "'http://localhost'",
+ "user_type_doctype_limit": {
+  "employee_self_service": 30
+ }
+}
